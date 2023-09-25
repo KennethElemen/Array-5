@@ -9,7 +9,7 @@ body{
     background-color: lavenderblush;
     background-image: url('res/background_in_space.gif');
     background-attachment: fixed;
-    overflow: hidden; 
+    overflow: scroll; 
     padding: 100px;
 }
 .cont{
